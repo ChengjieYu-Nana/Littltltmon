@@ -1,4 +1,4 @@
-/auth/users/                     #register new users via POST
-/auth/token/login/               #get token by username and password
-/restaurant/booking/tables       #Making a booking
-/restaurant/menu                 #Choose menu items
+- /auth/users/     &nbsp; &nbsp;&nbsp;&nbsp;               #register new users via POST
+- /auth/token/login/         &nbsp;&nbsp;&nbsp;&nbsp;      #get token by username and password
+- /restaurant/booking/tables   &nbsp;&nbsp;&nbsp;&nbsp;   
+- /restaurant/menu            &nbsp;&nbsp;&nbsp;&nbsp;     
